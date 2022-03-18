@@ -1,0 +1,90 @@
+[
+  {
+    "package": "audio",
+    "oncran": true
+  },
+  {
+    "package": "base64enc",
+    "oncran": true
+  },
+  {
+    "package": "Cairo",
+    "oncran": true
+  },
+  {
+    "package": "fastmatch",
+    "oncran": true
+  },
+  {
+    "package": "FastRWeb",
+    "oncran": true
+  },
+  {
+    "package": "fasttime",
+    "oncran": true
+  },
+  {
+    "package": "iotools",
+    "oncran": true
+  },
+  {
+    "package": "JavaGD",
+    "oncran": true
+  },
+  {
+    "package": "jpeg",
+    "oncran": true
+  },
+  {
+    "package": "OpenCL",
+    "oncran": true
+  },
+  {
+    "package": "PKI",
+    "oncran": true
+  },
+  {
+    "package": "png",
+    "oncran": true
+  },
+  {
+    "package": "proj4",
+    "oncran": true
+  },
+  {
+    "package": "RCassandra",
+    "oncran": true
+  },
+  {
+    "package": "rJava",
+    "oncran": true
+  },
+  {
+    "package": "RJDBC",
+    "oncran": true
+  },
+  {
+    "package": "RSclient",
+    "oncran": true
+  },
+  {
+    "package": "Rserve",
+    "oncran": true
+  },
+  {
+    "package": "scagnostics",
+    "oncran": true
+  },
+  {
+    "package": "tiff",
+    "oncran": true
+  },
+  {
+    "package": "uuid",
+    "oncran": true
+  },
+  {
+    "package": "venneuler",
+    "oncran": true
+  }
+]

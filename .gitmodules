@@ -3,3 +3,113 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "audio"]
+	path = audio
+	url = https://github.com/s-u/audio
+	shallow = true
+	registered = true
+[submodule "base64enc"]
+	path = base64enc
+	url = https://github.com/s-u/base64enc
+	shallow = true
+	registered = true
+[submodule "Cairo"]
+	path = Cairo
+	url = https://github.com/s-u/cairo
+	shallow = true
+	registered = true
+[submodule "fastmatch"]
+	path = fastmatch
+	url = https://github.com/s-u/fastmatch
+	shallow = true
+	registered = true
+[submodule "FastRWeb"]
+	path = FastRWeb
+	url = https://github.com/s-u/fastrweb
+	shallow = true
+	registered = true
+[submodule "fasttime"]
+	path = fasttime
+	url = https://github.com/s-u/fasttime
+	shallow = true
+	registered = true
+[submodule "iotools"]
+	path = iotools
+	url = https://github.com/s-u/iotools
+	shallow = true
+	registered = true
+[submodule "JavaGD"]
+	path = JavaGD
+	url = https://github.com/s-u/javagd
+	shallow = true
+	registered = true
+[submodule "jpeg"]
+	path = jpeg
+	url = https://github.com/s-u/jpeg
+	shallow = true
+	registered = true
+[submodule "OpenCL"]
+	path = OpenCL
+	url = https://github.com/s-u/opencl
+	shallow = true
+	registered = true
+[submodule "PKI"]
+	path = PKI
+	url = https://github.com/s-u/pki
+	shallow = true
+	registered = true
+[submodule "png"]
+	path = png
+	url = https://github.com/s-u/png
+	shallow = true
+	registered = true
+[submodule "proj4"]
+	path = proj4
+	url = https://github.com/s-u/proj4
+	shallow = true
+	registered = true
+[submodule "RCassandra"]
+	path = RCassandra
+	url = https://github.com/s-u/rcassandra
+	shallow = true
+	registered = true
+[submodule "rJava"]
+	path = rJava
+	url = https://github.com/s-u/rjava
+	shallow = true
+	registered = true
+[submodule "RJDBC"]
+	path = RJDBC
+	url = https://github.com/s-u/rjdbc
+	shallow = true
+	registered = true
+[submodule "RSclient"]
+	path = RSclient
+	url = https://github.com/s-u/rsclient
+	shallow = true
+	registered = true
+[submodule "Rserve"]
+	path = Rserve
+	url = https://github.com/s-u/rserve
+	shallow = true
+	registered = true
+[submodule "scagnostics"]
+	path = scagnostics
+	url = https://github.com/s-u/scagnostics
+	shallow = true
+	registered = true
+[submodule "tiff"]
+	path = tiff
+	url = https://github.com/s-u/tiff
+	shallow = true
+	registered = true
+[submodule "uuid"]
+	path = uuid
+	url = https://github.com/s-u/uuid
+	shallow = true
+	registered = true
+[submodule "venneuler"]
+	path = venneuler
+	url = https://github.com/s-u/venneuler
+	shallow = true
+	registered = true
