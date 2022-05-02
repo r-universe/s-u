@@ -28,6 +28,10 @@
     "oncran": true
   },
   {
+    "package": "iplots",
+    "oncran": true
+  },
+  {
     "package": "JavaGD",
     "oncran": true
   },

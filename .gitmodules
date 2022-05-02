@@ -38,6 +38,11 @@
 	url = https://github.com/s-u/iotools
 	shallow = true
 	registered = true
+[submodule "iplots"]
+	path = iplots
+	url = https://github.com/s-u/iplots
+	shallow = true
+	registered = true
 [submodule "JavaGD"]
 	path = JavaGD
 	url = https://github.com/s-u/javagd
