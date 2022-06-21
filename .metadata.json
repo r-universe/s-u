@@ -56,9 +56,6 @@
     "oncran": true
   },
   {
-    "package": "RCassandra"
-  },
-  {
     "package": "rJava",
     "oncran": true
   },

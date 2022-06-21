@@ -73,11 +73,6 @@
 	url = https://github.com/s-u/proj4
 	shallow = true
 	registered = true
-[submodule "RCassandra"]
-	path = RCassandra
-	url = https://github.com/s-u/rcassandra
-	shallow = true
-	registered = true
 [submodule "rJava"]
 	path = rJava
 	url = https://github.com/s-u/rjava
