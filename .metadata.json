@@ -4,43 +4,11 @@
     "oncran": true
   },
   {
-    "package": "scagnostics",
+    "package": "base64enc",
     "oncran": true
   },
   {
-    "package": "iotools",
-    "oncran": true
-  },
-  {
-    "package": "venneuler",
-    "oncran": true
-  },
-  {
-    "package": "fasttime",
-    "oncran": true
-  },
-  {
-    "package": "Rserve",
-    "oncran": true
-  },
-  {
-    "package": "PKI",
-    "oncran": true
-  },
-  {
-    "package": "FastRWeb",
-    "oncran": true
-  },
-  {
-    "package": "tiff",
-    "oncran": true
-  },
-  {
-    "package": "rJava",
-    "oncran": true
-  },
-  {
-    "package": "jpeg",
+    "package": "Cairo",
     "oncran": true
   },
   {
@@ -48,11 +16,15 @@
     "oncran": true
   },
   {
-    "package": "JavaGD",
+    "package": "FastRWeb",
     "oncran": true
   },
   {
-    "package": "proj4",
+    "package": "fasttime",
+    "oncran": true
+  },
+  {
+    "package": "iotools",
     "oncran": true
   },
   {
@@ -60,7 +32,31 @@
     "oncran": true
   },
   {
-    "package": "uuid",
+    "package": "JavaGD",
+    "oncran": true
+  },
+  {
+    "package": "jpeg",
+    "oncran": true
+  },
+  {
+    "package": "OpenCL",
+    "oncran": true
+  },
+  {
+    "package": "PKI",
+    "oncran": true
+  },
+  {
+    "package": "png",
+    "oncran": true
+  },
+  {
+    "package": "proj4",
+    "oncran": true
+  },
+  {
+    "package": "rJava",
     "oncran": true
   },
   {
@@ -72,19 +68,23 @@
     "oncran": true
   },
   {
-    "package": "OpenCL",
+    "package": "Rserve",
     "oncran": true
   },
   {
-    "package": "png",
+    "package": "scagnostics",
     "oncran": true
   },
   {
-    "package": "base64enc",
+    "package": "tiff",
     "oncran": true
   },
   {
-    "package": "Cairo",
+    "package": "uuid",
+    "oncran": true
+  },
+  {
+    "package": "venneuler",
     "oncran": true
   }
 ]
