@@ -18,6 +18,11 @@
 	url = https://github.com/s-u/cairo
 	shallow = true
 	registered = true
+[submodule "emdist"]
+	path = emdist
+	url = https://github.com/cran/emdist
+	shallow = true
+	registered = true
 [submodule "fastmatch"]
 	path = fastmatch
 	url = https://github.com/s-u/fastmatch
