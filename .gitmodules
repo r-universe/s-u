@@ -2,54 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "audio"]
-	path = audio
-	url = https://github.com/s-u/audio
-[submodule "base64enc"]
-	path = base64enc
-	url = https://github.com/s-u/base64enc
 [submodule "Cairo"]
 	path = Cairo
 	url = https://github.com/s-u/cairo
-[submodule "emdist"]
-	path = emdist
-	url = https://github.com/cran/emdist
-[submodule "fastmatch"]
-	path = fastmatch
-	url = https://github.com/s-u/fastmatch
 [submodule "FastRWeb"]
 	path = FastRWeb
 	url = https://github.com/s-u/fastrweb
-[submodule "fasttime"]
-	path = fasttime
-	url = https://github.com/s-u/fasttime
-[submodule "iotools"]
-	path = iotools
-	url = https://github.com/s-u/iotools
-[submodule "iplots"]
-	path = iplots
-	url = https://github.com/s-u/iplots
 [submodule "JavaGD"]
 	path = JavaGD
 	url = https://github.com/s-u/javagd
-[submodule "jpeg"]
-	path = jpeg
-	url = https://github.com/s-u/jpeg
 [submodule "OpenCL"]
 	path = OpenCL
 	url = https://github.com/s-u/opencl
 [submodule "PKI"]
 	path = PKI
 	url = https://github.com/s-u/pki
-[submodule "png"]
-	path = png
-	url = https://github.com/s-u/png
-[submodule "proj4"]
-	path = proj4
-	url = https://github.com/s-u/proj4
-[submodule "rJava"]
-	path = rJava
-	url = https://github.com/s-u/rjava
 [submodule "RJDBC"]
 	path = RJDBC
 	url = https://github.com/s-u/rjdbc
@@ -59,6 +26,39 @@
 [submodule "Rserve"]
 	path = Rserve
 	url = https://github.com/s-u/rserve
+[submodule "audio"]
+	path = audio
+	url = https://github.com/s-u/audio
+[submodule "base64enc"]
+	path = base64enc
+	url = https://github.com/s-u/base64enc
+[submodule "emdist"]
+	path = emdist
+	url = https://github.com/cran/emdist
+[submodule "fastmatch"]
+	path = fastmatch
+	url = https://github.com/s-u/fastmatch
+[submodule "fasttime"]
+	path = fasttime
+	url = https://github.com/s-u/fasttime
+[submodule "iotools"]
+	path = iotools
+	url = https://github.com/s-u/iotools
+[submodule "iplots"]
+	path = iplots
+	url = https://github.com/s-u/iplots
+[submodule "jpeg"]
+	path = jpeg
+	url = https://github.com/s-u/jpeg
+[submodule "png"]
+	path = png
+	url = https://github.com/s-u/png
+[submodule "proj4"]
+	path = proj4
+	url = https://github.com/s-u/proj4
+[submodule "rJava"]
+	path = rJava
+	url = https://github.com/s-u/rjava
 [submodule "scagnostics"]
 	path = scagnostics
 	url = https://github.com/s-u/scagnostics
