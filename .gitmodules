@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/s-u/s-u.r-universe.dev
 	branch = HEAD
+[submodule "Acinonyx"]
+	path = Acinonyx
+	url = https://github.com/s-u/Acinonyx
 [submodule "Cairo"]
 	path = Cairo
 	url = https://github.com/s-u/cairo
@@ -32,12 +35,18 @@
 [submodule "base64enc"]
 	path = base64enc
 	url = https://github.com/s-u/base64enc
+[submodule "bencoding"]
+	path = bencoding
+	url = https://github.com/s-u/bencoding
 [submodule "emdist"]
 	path = emdist
 	url = https://github.com/cran/emdist
 [submodule "fastmatch"]
 	path = fastmatch
 	url = https://github.com/s-u/fastmatch
+[submodule "fastshp"]
+	path = fastshp
+	url = https://github.com/s-u/fastshp
 [submodule "fasttime"]
 	path = fasttime
 	url = https://github.com/s-u/fasttime
