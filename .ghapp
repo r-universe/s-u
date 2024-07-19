@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["PKI", "iotools", "bencoding", "base64enc", "Acinonyx"]
+  "repositories": ["PKI", "png", "jpeg", "tiff", "iotools", "fastmatch", "audio", "bencoding", "uuid", "RJDBC", "fastshp", "Cairo", "rJava", "FastRWeb", "fasttime", "base64enc", "RSclient", "OpenCL", "emdist", "Acinonyx", "proj4", "JavaGD", "venneuler", "scagnostics", "iplots"]
 }
